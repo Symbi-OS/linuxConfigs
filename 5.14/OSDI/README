@@ -1,0 +1,11 @@
+Copied 5.13 fed config to 5.14-config branch of linux. Applied 
+
+make olddefconfig
+
+Copied it here as
+
+symbiote_config
+
+[root@neu-5-5 OSDI]# md5sum symbiote_config
+42693d7480492d2115422ec6bc3fbeeb  symbiote_config
+

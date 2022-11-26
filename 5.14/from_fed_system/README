@@ -1,0 +1,7 @@
+Took the config	
+
+tommyu@fedora:/boot$ md5sum config-5.13.7-100.fc33.x86_64
+6be3179dfe6dea5da2765edba1b19e5c  config-5.13.7-100.fc33.x86_64
+
+
+From /boot on don
