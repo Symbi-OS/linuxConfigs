@@ -6,6 +6,10 @@ Copied it here as
 
 symbiote_config
 
+copied symbiote_config to symbiote_config_off
+
+and commented out CONFIG_SYMBIOTE
+
 [root@neu-5-5 OSDI]# md5sum symbiote_config
 42693d7480492d2115422ec6bc3fbeeb  symbiote_config
 
