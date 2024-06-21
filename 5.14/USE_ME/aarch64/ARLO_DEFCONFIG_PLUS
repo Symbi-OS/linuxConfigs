@@ -9518,5 +9518,6 @@ CONFIG_RUNTIME_TESTING_MENU=y
 # CONFIG_TEST_FREE_PAGES is not set
 CONFIG_ARCH_USE_MEMTEST=y
 CONFIG_MEMTEST=y
+CONFIG_SYMBIOTE=y
 # end of Kernel Testing and Coverage
 # end of Kernel hacking
